@@ -1,5 +1,5 @@
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)(https://github.com/creyt2012/creyt2012/blob/main/buymecoffe.md)
+!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)(https://github.com/creyt2012/creyt2012/blob/main/buymecoffe.md)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/296113952_597695778530500_1212113959891090449_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gdUD3F9vC6UAX-yZKEz&_nc_ht=scontent-hkg4-1.xx&oh=00_AfDACJP2Fw_Kj8LueNR9C7sJbEG-sdQBi-nTj9ig5RZLaw&oe=64EE5631" alt="creytdeptrai" /><!-- https://simpleicons.org/ -->
