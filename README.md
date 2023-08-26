@@ -90,23 +90,21 @@
     <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
   </a>
 </p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
+<p><strong>☕ Đây là trang cá nhân của người siêu cấp đẹp trai, có thể đưa bạn lên cao tận tầng 99 và thả bạn xuống tầng một với sự đẹp trai này. các cô gái hãy cẩn thận khi soi profile của mình, ahihiiiii</strong></p>
+<p><strong>☕ Mình sẽ cố gắng tạo ra các ý tưởng thật hay ho, mong rằng nó sẽ phần nào đó giúp đỡ được bạn trong quá trình học tập khi lỡ bước chân vào vũ trụ mang tên của mình ^_^</strong></p>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
+  <strong>🔗 Link giới thiệu chi tiết: <a href="https://github.com/creyt2012" target="_blank">Đẹp trai có gì sai? - Lỗi sai là không có tiền!</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/creyt.2012" target="_blank">https://www.facebook.com/creyt.2012</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:mortarcloud@gmail.com" target="_top">mortarcloud@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
+
 </a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
-
+```bash
+Cướp của người giàu - chia cho người nhà , nếu đẹp trai là một cái tội, tôi xứng đáng không có chỗ lưu thân!
+```
