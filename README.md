@@ -1,7 +1,4 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -49,7 +46,6 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
