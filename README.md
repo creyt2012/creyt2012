@@ -1,5 +1,5 @@
 
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -48,10 +48,10 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Creytdeptrai">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creyt2012&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Creytdeptrai">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=creyt2012&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -81,7 +81,7 @@
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
+    <strong>☕ Hãy tìm kiếm các nội dung bạn muốn tại đây</strong>
   </a>
 </p>
 <p><strong>☕ Đây là trang cá nhân của người siêu cấp đẹp trai, có thể đưa bạn lên cao tận tầng 99 và thả bạn xuống tầng một với sự đẹp trai này. các cô gái hãy cẩn thận khi soi profile của mình, ahihiiiii</strong></p>
