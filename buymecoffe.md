@@ -1,0 +1,1 @@
+<a>bankname : Vietinbank </a>
