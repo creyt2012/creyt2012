@@ -1,6 +1,4 @@
-<h3>mua cho pố mài lee cóp phi</h3>
-<br>
-!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)</a>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <div align="center">
