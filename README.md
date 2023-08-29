@@ -104,4 +104,5 @@
 <br>
 ```
 Cướp của người giàu - chia cho người nhà , nếu đẹp trai là một cái tội, tôi xứng đáng không có chỗ lưu thân!
+Nếu bạn chưa biết là do bạn chưa gặp may, Nếu từ người khác để biết một sự việc thì cần cảm ơn, nếu không bạn sẽ giống thằng đần ^_^
 ```
