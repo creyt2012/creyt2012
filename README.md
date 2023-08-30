@@ -5,6 +5,12 @@
   <center><img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/296113952_597695778530500_1212113959891090449_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gdUD3F9vC6UAX-yZKEz&_nc_ht=scontent-hkg4-1.xx&oh=00_AfDACJP2Fw_Kj8LueNR9C7sJbEG-sdQBi-nTj9ig5RZLaw&oe=64EE5631" alt="creytdeptrai"height="250"/></center>
 </div><!-- https://simpleicons.org/ -->
 
+<img src="https://img.shields.io/badge/googlecloud-282C34?logo=googlecloud&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<img src="https://img.shields.io/badge/cloudflare-282C34?logo=cloudflare&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<img src="https://img.shields.io/badge/aws-282C34?logo=aws&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
 <img src="https://img.shields.io/badge/ibm-282C34?logo=ibm&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <img src="https://img.shields.io/badge/pascal-282C34?logo=pascal&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
