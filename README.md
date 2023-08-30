@@ -5,6 +5,10 @@
   <center><img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/296113952_597695778530500_1212113959891090449_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gdUD3F9vC6UAX-yZKEz&_nc_ht=scontent-hkg4-1.xx&oh=00_AfDACJP2Fw_Kj8LueNR9C7sJbEG-sdQBi-nTj9ig5RZLaw&oe=64EE5631" alt="creytdeptrai"height="250"/></center>
 </div><!-- https://simpleicons.org/ -->
 
+<img src="https://img.shields.io/badge/socialnetwork-282C34?logo=socialnetwork&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<img src="https://img.shields.io/badge/socialnetwork-282C34?logo=socialnetwork&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
 <img src="https://img.shields.io/badge/cubase-282C34?logo=Cubase&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
