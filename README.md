@@ -90,7 +90,7 @@
 <h2 align="center">📖 Giới thiệu về tôi 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
+  <a href="https://youtu.be/" target="_blank">
     <strong>☕ Hãy tìm kiếm các nội dung bạn muốn tại đây</strong>
   </a>
 </p>
