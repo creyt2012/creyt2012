@@ -9,8 +9,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/jscript-282C34?logo=jscript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<img src="https://img.shields.io/badge/j#-282C34?logo=j#&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
 <img src="https://img.shields.io/badge/j++-282C34?logo=j++&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <img src="https://img.shields.io/badge/googlecloud-282C34?logo=googlecloud&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
